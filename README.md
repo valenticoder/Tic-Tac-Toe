@@ -29,6 +29,3 @@ python main.py
 
 
 
-## Author
-[Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
-
