@@ -1,4 +1,5 @@
-# Tic Tac Toe
+# Tic Tac Toe game
+
 
 ## Running Tic-Tac-Toe:
 
