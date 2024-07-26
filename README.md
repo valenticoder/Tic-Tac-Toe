@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
-Python main.py
+python main.py
 ```
 
 <p align="center">
